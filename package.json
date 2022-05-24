@@ -9,6 +9,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "engines": {
+    "node": "14.16.0"
+  },
   "dependencies": {
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
